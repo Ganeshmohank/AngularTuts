@@ -1,0 +1,8 @@
+<!-- <p>parent works!{{parentName}}</p>
+<app-child [id]="student" [name]="parentName"></app-child> -->
+
+<p>Name :{{name}}</p>
+
+<input [(ngModel)]="name" placeholder="enter name"/>
+<button  (click)="emitEventToChild()" >click me</button>
+<app-child [events]="eventsSubject.asObservable()"> </app-child>    
