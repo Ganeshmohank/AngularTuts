@@ -1,0 +1,40 @@
+<div>
+    <h1>Save Data</h1>
+    <div style="display: flex;">
+        <p style="margin-right:20px ;">Enter Id</p>
+        <input placeholder="Enter Id" [(ngModel)]="userObject.id"/>
+    </div>
+    <div style="display: flex;">
+        <p style="margin-right:20px ;">Enter first_name</p>
+        <input placeholder="Enter first_name" [(ngModel)]="userObject.first_name"/>
+    </div>
+    <div style="display: flex;">
+        <p style="margin-right:20px ;">Enter last_name</p>
+        <input placeholder="Enter last_name" [(ngModel)]="userObject.last_name"/>
+    </div>
+    <div style="display: flex;">
+        <p style="margin-right:20px ;">Enter email</p>
+        <input placeholder="Enter email" [(ngModel)]="userObject.email"/>
+    </div>
+    <div style="display: flex;">
+        <p style="margin-right:20px ;">Enter gender</p>
+        <input placeholder="Enter gender" [(ngModel)]="userObject.gender"/>
+    </div>
+    <button (click)="saveData()">Save Data</button>
+</div>
+<div>
+    <input type="text" placeholder="filterBy" [(ngModel)]="firstNameFilter" (keyup)="filterData()"/>
+</div>
+<div>
+    <div style="display: block;border: 1px solid black;margin: 20px;" *ngFor="let item of userData">
+      <div style="margin-left: 50px;">
+        <p>{{item.id}}</p>
+        <p>{{item.email}}</p>
+        <p>{{item.first_name}}</p>
+        <p>{{item.last_name}}</p>
+        <p>{{item.gender}}</p>
+        <button (click)="editData(item.id)">Edit</button>
+        <button (click)="deleteData(item.id)">Delete</button>
+      </div>
+    </div>    
+</div>

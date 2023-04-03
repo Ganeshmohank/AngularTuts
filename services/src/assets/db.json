@@ -1,0 +1,240 @@
+{
+  "data": [
+    {
+      "id": 12,
+      "first_name": "Demetra",
+      "last_name": "Rabbage",
+      "email": "drabbageb@google.pl",
+      "gender": "Female"
+    },
+    {
+      "id": 13,
+      "first_name": "Bronnie",
+      "last_name": "Fawlkes",
+      "email": "bfawlkesc@wsj.com",
+      "gender": "Male"
+    },
+    {
+      "id": 15,
+      "first_name": "Zaneta",
+      "last_name": "Nolte",
+      "email": "znoltee@utexas.edu",
+      "gender": "Female"
+    },
+    {
+      "id": 16,
+      "first_name": "Keelia",
+      "last_name": "Dinkin",
+      "email": "kdinkinf@uol.com.br",
+      "gender": "Female"
+    },
+    {
+      "id": 17,
+      "first_name": "Marena",
+      "last_name": "Tuttle",
+      "email": "mtuttleg@bravesites.com",
+      "gender": "Female"
+    },
+    {
+      "id": 18,
+      "first_name": "Nefen",
+      "last_name": "Perkin",
+      "email": "nperkinh@arstechnica.com",
+      "gender": "Male"
+    },
+    {
+      "id": 19,
+      "first_name": "Nonnah",
+      "last_name": "Iacovides",
+      "email": "niacovidesi@wikia.com",
+      "gender": "Female"
+    },
+    {
+      "id": 20,
+      "first_name": "Agneta",
+      "last_name": "Bearward",
+      "email": "abearwardj@free.fr",
+      "gender": "Female"
+    },
+    {
+      "id": "22",
+      "first_name": "sdfd",
+      "last_name": "dsfdsf",
+      "email": "sdfdsfd",
+      "gender": "sdfds"
+    },
+    {
+      "id": "23",
+      "first_name": "Sholom",
+      "last_name": "Huskisson",
+      "email": "shuskisson1@xinhuanet.com",
+      "gender": "Genderfluid"
+    },
+    {
+      "id": "24",
+      "first_name": "ganesh",
+      "last_name": "k",
+      "email": "test@gmail",
+      "gender": "Male"
+    },
+    {
+      "id": "122",
+      "first_name": "sdfsdf",
+      "last_name": "fsfdsf",
+      "email": "dsfsfdfs",
+      "gender": "sdfdsfdsf"
+    }
+  ],
+  "studentData": [
+    {
+      "id": 1,
+      "carVIn": "WAUGL98EX7A823904",
+      "color": "#30af3f"
+    },
+    {
+      "id": 2,
+      "carVIn": "1GKMCAE38AR102794",
+      "color": "#09387d"
+    },
+    {
+      "id": 3,
+      "carVIn": "WAUFEAFM8AA664146",
+      "color": "#f9ec25"
+    },
+    {
+      "id": 4,
+      "carVIn": "5J8TB1H51CA243216",
+      "color": "#1009d9"
+    },
+    {
+      "id": 5,
+      "carVIn": "1N6AA0CA0EN679801",
+      "color": "#8bcbc6"
+    },
+    {
+      "id": 6,
+      "carVIn": "WDDEJ7KBXAA694692",
+      "color": "#448f1d"
+    },
+    {
+      "id": 7,
+      "carVIn": "JH4CU2F69CC583081",
+      "color": "#956b0a"
+    },
+    {
+      "id": 8,
+      "carVIn": "JM1GJ1U52F1617796",
+      "color": "#7ab305"
+    },
+    {
+      "id": 9,
+      "carVIn": "2C3CA5CV8AH926811",
+      "color": "#375600"
+    },
+    {
+      "id": 10,
+      "carVIn": "WVWGU9AN4BE884046",
+      "color": "#63eb1a"
+    },
+    {
+      "id": 11,
+      "carVIn": "3FA6P0LU3FR037367",
+      "color": "#be3d65"
+    },
+    {
+      "id": 12,
+      "carVIn": "WAUNF78P88A005545",
+      "color": "#71649f"
+    },
+    {
+      "id": 13,
+      "carVIn": "WBAWB33567P403668",
+      "color": "#39be94"
+    },
+    {
+      "id": 14,
+      "carVIn": "1G4HR54K62U577351",
+      "color": "#ecd576"
+    },
+    {
+      "id": 15,
+      "carVIn": "5FPYK1F64EB918400",
+      "color": "#441274"
+    },
+    {
+      "id": 16,
+      "carVIn": "1B3CB1HA4AD224913",
+      "color": "#6b41b3"
+    },
+    {
+      "id": 17,
+      "carVIn": "SCFFDAAEXCG454350",
+      "color": "#996fa3"
+    },
+    {
+      "id": 18,
+      "carVIn": "WA1EY74L59D718865",
+      "color": "#6a0630"
+    },
+    {
+      "id": 19,
+      "carVIn": "YV440MBK7F1091890",
+      "color": "#05b98a"
+    },
+    {
+      "id": 20,
+      "carVIn": "SCFEFBAC4AG459289",
+      "color": "#f7ddbf"
+    },
+    {
+      "id": 21,
+      "carVIn": "KNDMG4C72C6510896",
+      "color": "#c9ecaf"
+    },
+    {
+      "id": 22,
+      "carVIn": "5N1AA0NC0EN137286",
+      "color": "#407ac7"
+    },
+    {
+      "id": 23,
+      "carVIn": "1G6AF5S33D0241163",
+      "color": "#b37409"
+    },
+    {
+      "id": 24,
+      "carVIn": "JM1BL1K34B1479470",
+      "color": "#be04e5"
+    },
+    {
+      "id": 25,
+      "carVIn": "WA1CGBFE7BD197309",
+      "color": "#f2a777"
+    },
+    {
+      "id": 26,
+      "carVIn": "WAUMGAFL0CA289932",
+      "color": "#4d7bb6"
+    },
+    {
+      "id": 27,
+      "carVIn": "WBAEN33453E322600",
+      "color": "#8744b5"
+    },
+    {
+      "id": 28,
+      "carVIn": "2D4JN1AG0BR561771",
+      "color": "#3dc448"
+    },
+    {
+      "id": 29,
+      "carVIn": "19VDE1F39EE384376",
+      "color": "#93f76c"
+    },
+    {
+      "id": 30,
+      "carVIn": "WBAKN9C59FD390357",
+      "color": "#19f58d"
+    }
+  ]
+}
