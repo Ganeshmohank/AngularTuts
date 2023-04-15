@@ -1,0 +1,13 @@
+<h1>lazylosd</h1>
+<ul>
+  <li><a routerLink="admin/login">login</a></li>
+  <li><a routerLink="admin/list">list</a></li>
+</ul>
+<h2>user</h2>
+<ul>
+  <li><a routerLink="user/login">login</a></li>
+  <li><a routerLink="user/list">list</a></li>
+</ul>
+<button (click)="loadAdmin()"> load admin</button>
+<button (click)="loadUser()"> load user</button>
+<router-outlet></router-outlet>
